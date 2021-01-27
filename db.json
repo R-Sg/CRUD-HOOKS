@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "Rohit Bhati",
+      "username": "admin",
+      "email": "r@gmail.com"
+    },
+    {
+      "name": "Kapil BHati",
+      "username": "KB",
+      "email": "kapil@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Rekha Bhati",
+      "username": "Bhati",
+      "email": "Rey.Padberg@karina.biz",
+      "id": 5
+    },
+    {
+      "name": "Brajendra Bhati",
+      "username": "BB",
+      "email": "b@gmail.com",
+      "id": 6
+    }
+  ]
+}
